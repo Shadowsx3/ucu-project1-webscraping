@@ -1,0 +1,451 @@
+{
+   "ciudades": [
+      {
+         "nombre": "Montevideo",
+         "propiedades": [
+            {
+               "precio": "110.000",
+               "tamano": 38,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/181612-marcel-perchman/propiedades"
+            },
+            {
+               "precio": "260.000",
+               "tamano": 96,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173120367-deus/propiedades"
+            },
+            {
+               "precio": "785.000",
+               "tamano": 199,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/12-sures-real-estate/propiedades"
+            },
+            {
+               "precio": "400.000",
+               "tamano": 427,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173801279-silvana-de-la-fuente-remax/propiedades"
+            },
+            {
+               "precio": "320.000",
+               "tamano": 250,
+               "habitaciones": 5,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175212017-flavia-erazo-rematadora-/propiedades"
+            },
+            {
+               "precio": "260.000",
+               "tamano": 516,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/42536-portones/propiedades"
+            },
+            {
+               "precio": "99.000",
+               "tamano": 55,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173907516-housi/propiedades"
+            },
+            {
+               "precio": "97.000",
+               "tamano": 29,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175266782-grou-desarrollos/propiedades"
+            },
+            {
+               "precio": "680.000",
+               "tamano": 754,
+               "habitaciones": 5,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/301381-blk-realty/propiedades"
+            },
+            {
+               "precio": "250.000",
+               "tamano": 87,
+               "habitaciones": 1,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173975250-marcos-agnetti-remax/propiedades"
+            },
+            {
+               "precio": "101.979",
+               "tamano": 35,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173164577-mateo-fernandez/propiedades"
+            },
+            {
+               "precio": "330.000",
+               "tamano": 156,
+               "habitaciones": 5,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175328344-tam-negocios-inmobiliarios/propiedades"
+            },
+            {
+               "precio": "745.000",
+               "tamano": 390,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175328344-tam-negocios-inmobiliarios/propiedades"
+            },
+            {
+               "precio": "255.000",
+               "tamano": 60,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173801279-silvana-de-la-fuente-remax/propiedades"
+            },
+            {
+               "precio": "1.490.000",
+               "tamano": 1200,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173975250-marcos-agnetti-remax/propiedades"
+            },
+            {
+               "precio": "94.000",
+               "tamano": 32,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/950287-glosker-sa-desarrollos-inmobiliarios/propiedades"
+            },
+            {
+               "precio": "126.866",
+               "tamano": 42,
+               "habitaciones": 1,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173754870-altos-de-cordon/propiedades"
+            },
+            {
+               "precio": "186.500",
+               "tamano": 87,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/321-bfa/propiedades"
+            },
+            {
+               "precio": "338.000",
+               "tamano": 282,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/174519563-gonzalo-arbulo-re/max/propiedades"
+            },
+            {
+               "precio": "205.000",
+               "tamano": 89,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/417648-lugano&asoc-servicios-inmobiliarios/propiedades"
+            },
+            {
+               "precio": "119.480",
+               "tamano": 27,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/606070-be-one/propiedades"
+            },
+            {
+               "precio": "1.500.000",
+               "tamano": 3270,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/local-industrial-o-galpn-en-jacinto-vera/219799"
+            },
+            {
+               "precio": "270.000",
+               "tamano": 136,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/apartamentos-en-pocitos/189610787"
+            },
+            {
+               "precio": "235.000",
+               "tamano": 72,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/apartamentos-en-pocitos/190790524"
+            },
+            {
+               "precio": "140.000",
+               "tamano": 74,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/oficinas-en-centro/186300882"
+            },
+            {
+               "precio": "123.000",
+               "tamano": 86,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/casas-en-prado/191406706"
+            },
+            {
+               "precio": "130.000",
+               "tamano": 43,
+               "habitaciones": 1,
+               "link": "https://www.infocasas.com.uy/apartamentos-en-malvn/191558018"
+            },
+            {
+               "precio": "349.000",
+               "tamano": 88,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/apartamentos-en-malvn/190991140"
+            },
+            {
+               "precio": "127.000",
+               "tamano": 69,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/apartamentos-en-centro/191049177"
+            }
+         ]
+      },
+      {
+         "nombre": "Maldonado",
+         "propiedades": [
+            {
+               "precio": "119.000",
+               "tamano": 42,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175285615-access-real-estate/propiedades"
+            },
+            {
+               "precio": "850.000",
+               "tamano": 409,
+               "habitaciones": 4,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/339-propiedadesuy/propiedades"
+            },
+            {
+               "precio": "450.000",
+               "tamano": 97,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173211231-black-real-estate/propiedades"
+            },
+            {
+               "precio": "210.000",
+               "tamano": 89,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175044998-pineyrua-propiedades-/propiedades"
+            },
+            {
+               "precio": "230.000",
+               "tamano": 0,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/339-propiedadesuy/propiedades"
+            },
+            {
+               "precio": "210.000",
+               "tamano": 0,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/339-propiedadesuy/propiedades"
+            },
+            {
+               "precio": "310.000",
+               "tamano": 113,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/339-propiedadesuy/propiedades"
+            },
+            {
+               "precio": "420.000",
+               "tamano": 0,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/339-propiedadesuy/propiedades"
+            },
+            {
+               "precio": "250.000",
+               "tamano": 79,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/339-propiedadesuy/propiedades"
+            },
+            {
+               "precio": "650.000",
+               "tamano": 267,
+               "habitaciones": 5,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/339-propiedadesuy/propiedades"
+            },
+            {
+               "precio": "370.000",
+               "tamano": 0,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175044998-pineyrua-propiedades-/propiedades"
+            },
+            {
+               "precio": "185.000",
+               "tamano": 59,
+               "habitaciones": 1,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/649497-porto-negocios-inmobiliarios/propiedades"
+            },
+            {
+               "precio": "1.970.000",
+               "tamano": 0,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/perfil/130151-uruguay-link-real-estate"
+            },
+            {
+               "precio": "3.115.000",
+               "tamano": 0,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/perfil/130151-uruguay-link-real-estate"
+            },
+            {
+               "precio": "4.300.000",
+               "tamano": 430,
+               "habitaciones": 4,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/perfil/130151-uruguay-link-real-estate"
+            },
+            {
+               "precio": "970.000",
+               "tamano": 395,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/perfil/130151-uruguay-link-real-estate"
+            },
+            {
+               "precio": "335.000",
+               "tamano": 102,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/perfil/214-paulo-alvez"
+            },
+            {
+               "precio": "129.000",
+               "tamano": 51,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/649497-porto-negocios-inmobiliarios/propiedades"
+            },
+            {
+               "precio": "152.000",
+               "tamano": 36,
+               "habitaciones": 1,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/649497-porto-negocios-inmobiliarios/propiedades"
+            },
+            {
+               "precio": "235.000",
+               "tamano": 80,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/perfil/214-paulo-alvez"
+            },
+            {
+               "precio": "145.000",
+               "tamano": 87,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173211231-black-real-estate/propiedades"
+            }
+         ]
+      },
+      {
+         "nombre": "Canelones",
+         "propiedades": [
+            {
+               "precio": "225.000",
+               "tamano": 36,
+               "habitaciones": 1,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175285615-access-real-estate/propiedades"
+            },
+            {
+               "precio": "340.000",
+               "tamano": 938,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/61728-alhambra/propiedades"
+            },
+            {
+               "precio": "398.000",
+               "tamano": 128,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/216-monymar/propiedades"
+            },
+            {
+               "precio": "120.900",
+               "tamano": 1,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/298704-mazzei-&-ciappesoni/propiedades"
+            },
+            {
+               "precio": "139.000",
+               "tamano": 65,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/10668-arq/propiedades"
+            },
+            {
+               "precio": "135.000",
+               "tamano": 1,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/298704-mazzei-&-ciappesoni/propiedades"
+            },
+            {
+               "precio": "295.000",
+               "tamano": 186,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173924848-kampo-propiedades/propiedades"
+            },
+            {
+               "precio": "180.000",
+               "tamano": 261,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/298704-mazzei-&-ciappesoni/propiedades"
+            },
+            {
+               "precio": "435.000",
+               "tamano": 280,
+               "habitaciones": 4,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/183-voila/propiedades"
+            },
+            {
+               "precio": "340.000",
+               "tamano": 938,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/61728-alhambra/propiedades"
+            },
+            {
+               "precio": "110.000",
+               "tamano": 130,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/183-voila/propiedades"
+            },
+            {
+               "precio": "650.000",
+               "tamano": 189,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/719698-terrasur-propiedades/propiedades"
+            },
+            {
+               "precio": "98.000",
+               "tamano": 115,
+               "habitaciones": 2,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/489546-ares-inmobiliaria/propiedades"
+            },
+            {
+               "precio": "650.000",
+               "tamano": 200,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/484695-link-house/propiedades"
+            },
+            {
+               "precio": "750.000",
+               "tamano": 267,
+               "habitaciones": 4,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/173711752-darcy-inmobiliaria-/propiedades"
+            },
+            {
+               "precio": "345.000",
+               "tamano": 260,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/11020-costanera-inmobiliaria-y-escribania/propiedades"
+            },
+            {
+               "precio": "360.000",
+               "tamano": 199,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/484695-link-house/propiedades"
+            },
+            {
+               "precio": "249.000",
+               "tamano": 500,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175110094-bonciel/propiedades"
+            },
+            {
+               "precio": "449.000",
+               "tamano": 213,
+               "habitaciones": 5,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/perfil/359-casagrande"
+            },
+            {
+               "precio": "563.000",
+               "tamano": 0,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/174519563-gonzalo-arbulo-re/max/propiedades"
+            },
+            {
+               "precio": "350.000",
+               "tamano": 278,
+               "habitaciones": 0,
+               "link": "https://www.infocasas.com.uy/inmobiliarias/175110094-bonciel/propiedades"
+            },
+            {
+               "precio": "270.000",
+               "tamano": 892,
+               "habitaciones": 3,
+               "link": "https://www.infocasas.com.uy/casas-en-lomas-de-solymar/191128695"
+            }
+         ]
+      }
+   ]
+}
